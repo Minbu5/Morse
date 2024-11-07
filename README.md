@@ -1,2 +1,2 @@
-Programelė konvertuojanti lotiniškus rašmenis ir skaičius į morzės kodą.
-Raidės atskiriamos: / žodžiai: // jeigu įvedamas simbolis neturintis kodo: ?
+Program that converts latin letters and numbers into morse code.
+letters sepparated with: / words: // if entered unknown symbol then: ?
